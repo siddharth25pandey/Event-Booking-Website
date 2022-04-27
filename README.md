@@ -1,5 +1,5 @@
 # Event Management Platform
-`Event Booking G-20` website is basically for entertainment purpose, In this webapp, a user can book events tickets by choosing the different theatres and timings accordingly. The user also can see some events happening around them and can attend the events. It is hosted at [Demo] https://g20eventbooking.netlify.app 
+`Event Booking G-20` website is basically for entertainment purpose, In this webapp, a user can book events tickets by choosing the different theatres and timings accordingly. The user also can see some events happening around them and can attend the events. It is hosted at [Demo](https://g20eventbooking.netlify.app) 
 
 ## Motivation
 As demands of an automatic system in the management sector are high, we need to develop a unique web app for Event Management System. 
@@ -63,11 +63,11 @@ To run the program offline, follow the following steps:
 
 For any queries, reach out to the Developers :
 
-[Siddharth Pandey](mailto:siddharth25pandey@gmail.com)
-[Shreyash Mishra](mailto:shreyashm1601@gmail.com) 
-[Priyam Bajpai](mailto:priyambajpai@yahoo.in) 
-[Yaduraj Deshmukh](mailto:yadurajdeshmukh2.303@gmail.com)
-[Naveen Kumar](mailto:naveenkumar.k19@gmail.com)
+* [Siddharth Pandey](mailto:siddharth25pandey@gmail.com)
+* [Shreyash Mishra](mailto:shreyashm1601@gmail.com) 
+* [Priyam Bajpai](mailto:priyambajpai@yahoo.in) 
+* [Yaduraj Deshmukh](mailto:yadurajdeshmukh2.303@gmail.com)
+* [Naveen Kumar](mailto:naveenkumar.k19@gmail.com)
 
 ##
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)
