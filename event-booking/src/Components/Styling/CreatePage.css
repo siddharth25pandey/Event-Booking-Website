@@ -1,0 +1,23 @@
+.container_create {
+    width: 100%;
+    height: 300px;
+    display: flex;
+  }
+  title>h1{
+    position:absolute;
+    color:red;
+    font-size: 50px;
+    margin: 200px;
+    padding: 2px;
+    margin-left: -650px;
+  }
+  
+  .formc{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    background-color: aliceblue;
+    padding: 20px;
+  }
+  

@@ -1,0 +1,186 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.kym-cdn.com/entries/icons/original/000/013/564/doge.jpg",
+      "friend_interest": true,
+      "fav_genres": [
+        "Action",
+        "Thriller",
+        "Comedy",
+        "Fantasy"
+      ],
+      "friends": [
+        {
+          "id": 2,
+          "status": "accepted"
+        },
+        {
+          "id": 4,
+          "status": "accepted"
+        },
+        {
+          "id": 3,
+          "status": "requested"
+        }
+      ],
+      "friend_requests": [],
+      "name": "Shreyash",
+      "about": "Lionel Andrés Messi, also known as Leo Messi, is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Messi has won a record seven Ballon d'Or awards, a record six European Golden Shoes, and in 2020 was named to the Ballon d'Or Dream Team. Until leaving the club in 2021, he had spent his entire professional career with Barcelona, where he won a club-record 35 trophies, including ten La Liga titles, seven Copa del Rey titles and four UEFA Champions Leagues. A prolific goalscorer and creative playmaker, Messi holds the records for most goals in La Liga (474), a La Liga and European league season (50), most hat-tricks in La Liga (36) and the UEFA Champions League (8), and most assists in La Liga (192), a La Liga season (21) and the Copa América (17). He also holds the record for most international goals by a South American male (80). Messi has scored over 750 senior career goals for club and country, and has the most goals by a player for a single club.",
+      "booked_events": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "phone": "7021904275",
+      "email": "user1@gmail.com",
+      "password": "user1"
+    },
+    {
+      "id": 2,
+      "name": "Aditya",
+      "friend_interest": true,
+      "fav_genres": [
+        "Action",
+        "Thriller",
+        "Comedy"
+      ],
+      "friends": [
+        {
+          "id": 1,
+          "status": "accepted"
+        }
+      ],
+      "friend_requests": [],
+      "image": "https://i.imgflip.com/3sksxo.png",
+      "about": "Shaktimaan was depicted as a character who had attained superhuman powers through meditation and five elements of nature. He is trained by a mystical sect of saints to fight against all odds and defeat the evil prevailing within the society. Shaktimaan's alter ego is Gangadhar, who is a funny geek.",
+      "booked_events": [
+        8,
+        9,
+        10,
+        11,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "phone": "1234567890",
+      "email": "user2@gmail.com",
+      "password": "user2"
+    },
+    {
+      "id": 3,
+      "name": "Sid",
+      "friend_interest": true,
+      "fav_genres": [
+        "Action"
+      ],
+      "friends": [],
+      "friend_requests": [
+        1
+      ],
+      "image": "https://i.imgur.com/n08A8NO.jpg",
+      "about": "Shaktimaan was depicted as a character who had attained superhuman powers through meditation and five elements of nature. He is trained by a mystical sect of saints to fight against all odds and defeat the evil prevailing within the society. Shaktimaan's alter ego is Gangadhar, who is a funny geek.",
+      "booked_events": [
+        8,
+        9,
+        10,
+        11,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "phone": "1234567890",
+      "email": "user2@gmail.com",
+      "password": "user2"
+    },
+    {
+      "id": 4,
+      "name": "Sid1",
+      "friend_interest": true,
+      "fav_genres": [
+        "Action"
+      ],
+      "friends": [
+        {
+          "id": 1,
+          "status": "accepted"
+        }
+      ],
+      "friend_requests": [],
+      "image": "https://i.imgflip.com/3sksxo.png",
+      "about": "Shaktimaan was depicted as a character who had attained superhuman powers through meditation and five elements of nature. He is trained by a mystical sect of saints to fight against all odds and defeat the evil prevailing within the society. Shaktimaan's alter ego is Gangadhar, who is a funny geek.",
+      "booked_events": [
+        8,
+        9,
+        10,
+        11,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "phone": "1234567890",
+      "email": "user4@gmail.com",
+      "password": "user4"
+    },
+    {
+      "id": 5,
+      "name": "Sid2",
+      "friend_interest": true,
+      "fav_genres": [
+        "Action"
+      ],
+      "friends": [],
+      "friend_requests": [],
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2019-01/23/13/asset/buzzfeed-prod-web-06/sub-buzz-1138-1548268729-1.jpg?crop=450:450;233,0",
+      "about": "Shaktimaan was depicted as a character who had attained superhuman powers through meditation and five elements of nature. He is trained by a mystical sect of saints to fight against all odds and defeat the evil prevailing within the society. Shaktimaan's alter ego is Gangadhar, who is a funny geek.",
+      "booked_events": [
+        8,
+        9,
+        10,
+        11,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "phone": "1234567890",
+      "email": "user5@gmail.com",
+      "password": "user5"
+    },
+    {
+      "id": 6,
+      "name": "Sid4",
+      "friend_interest": true,
+      "fav_genres": [
+        "Action"
+      ],
+      "friends": [],
+      "friend_requests": [],
+      "image": "https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2019-03/Screen%20Shot%202019-03-14%20at%2011.28.25%20AM.png",
+      "about": "Shaktimaan was depicted as a character who had attained superhuman powers through meditation and five elements of nature. He is trained by a mystical sect of saints to fight against all odds and defeat the evil prevailing within the society. Shaktimaan's alter ego is Gangadhar, who is a funny geek.",
+      "booked_events": [
+        8,
+        9,
+        10,
+        11,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "phone": "1234567890",
+      "email": "user6@gmail.com",
+      "password": "user6"
+    }
+  ]

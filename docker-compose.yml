@@ -1,0 +1,38 @@
+version: "2.2"
+
+services:
+  server:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: backend
+    container_name: event-booking-backend
+    command: nodemon index.js
+    ports:
+      - "4000:4000"
+    networks:
+      - app-network
+
+  client:
+    build:
+      context: ./event-booking
+      dockerfile: Dockerfile
+    image: frontend
+    container_name: event-booking-frontend
+    command: npm run start
+    depends_on:
+      - server
+    ports:
+      - "3000:3000"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  data-volume:
+  node_modules:
+  web-root:
+    driver: local

@@ -1,0 +1,114 @@
+.container {
+  display: flex;
+  padding: 20px 80px;
+  background: #16161d;
+  scroll-snap-stop: none;
+}
+
+.summeryPart {
+  width: 40%;
+  background: #333338;
+  border-radius: 10px;
+  max-height: fit-content;
+}
+
+.summeryPart > div:first-child {
+  padding: 0 30px;
+  padding-top: 20px;
+  font-weight: 300;
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-bottom: 25px;
+  text-align: left;
+  color: #fff;
+}
+
+.summeryPart span {
+  padding: 0 30px;
+  font-size: 13px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.categories {
+  padding: 0 30px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 500;
+  line-height: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.line {
+  /* padding: 0 30px; */
+  background: #dadada;
+  height: 1px;
+  margin: 10px 30px;
+}
+
+.charity {
+  margin: 20px 30px;
+  padding: 10px;
+  text-align: left;
+}
+
+.charity > div:first-child {
+  display: flex;
+  justify-content: space-between;
+}
+
+.charity img {
+  width: 100px;
+  margin: 0 5px;
+}
+
+.text {
+  font-size: 12px;
+  text-align: center;
+}
+
+.total {
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  font-size: 100%;
+  font-weight: 400;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.ticketType {
+  font-size: 14px;
+  color: #999;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.cancellation_policy {
+  font-size: 100%;
+  font-weight: 400;
+  vertical-align: baseline;
+  padding: 15px 30px;
+  font-size: 12px;
+  text-align: center;
+  color: white;
+}
+
+.proceedBtn {
+  background: #f84464;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 15px 30px;
+  display: flex;
+  font-size: 18px;
+  font-weight: 400;
+  justify-content: space-between;
+  border-radius: 10px;
+  margin-top: 15vh;
+  margin-bottom: 5vh;
+  cursor: pointer;
+}

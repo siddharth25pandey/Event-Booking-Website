@@ -1,0 +1,53 @@
+.form-group{
+    color: black;
+}
+.bttn{
+    margin-left: 800px;
+    background-color: #f84464;
+    color: #100e29;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    outline: none;
+    cursor: pointer;
+    padding: 2px;
+}
+.bttn_det{
+    background-color: #f84464;
+    color: #100e29;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.langbox{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.otherdet{
+    background-color: aliceblue;
+    border-radius: 10px;
+    border: none;
+    margin: 20px;
+    padding: 2px;
+}
+
+.Delete{
+    background-color: darkorange;
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 5px;
+    border: none;
+    color: red;
+    size: 50px;
+    font-size: 25px;
+}

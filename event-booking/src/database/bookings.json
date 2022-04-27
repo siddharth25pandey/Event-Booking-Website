@@ -1,0 +1,533 @@
+[
+    {
+      "name": "Best of Laugh Store",
+      "date": 5,
+      "day": "Wednesday",
+      "time": "07:40 PM",
+      "venues_name": "INOX: Nehru Place",
+      "silver": [
+        "A7",
+        "A8",
+        "A5",
+        "A6",
+        "A7"
+      ],
+      "platinium": [
+        "D8"
+      ],
+      "price": 336,
+      "total_price": 364,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNiBKYW4%3D,ots-29,otc-FFFFFF,oy-612,ox-24:oi-discovery-catalog@@icons@@bundle-icon-shadow-4x.png,ox-15,oy-15,ow-50/et00301197-uuzmrjmmqn-portrait.jpg",
+      "grade": "ua",
+      "id": 1
+    },
+    {
+      "name": "Fitness First",
+      "date": 6,
+      "day": "Thursday",
+      "time": "09:00 PM",
+      "venues_name": "Cinepolis: DLF Avenue, Saket",
+      "silver": [
+        "A7",
+        "A8",
+        "A5",
+        "A6",
+        "A7",
+        "D16"
+      ],
+      "platinium": [
+        "D8"
+      ],
+      "price": 112,
+      "total_price": 140,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00319381-jnqfbzrpje-portrait.jpg",
+      "grade": "ua",
+      "id": 2
+    },
+    {
+      "name": "Fitness First",
+      "date": 7,
+      "day": "Friday",
+      "time": "07:45 PM",
+      "venues_name": "PVR: Logix, Noida",
+      "silver": [
+        "A7",
+        "A8",
+        "A5",
+        "A6",
+        "A7",
+        "D16"
+      ],
+      "platinium": [
+        "D8",
+        "D8"
+      ],
+      "price": 100,
+      "total_price": 128,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00319381-jnqfbzrpje-portrait.jpg",
+      "grade": "ua",
+      "id": 3
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 7,
+      "day": "Friday",
+      "time": "07:00 PM",
+      "venues_name": "PVR: Pacific, Subhash Nagar, Delhi",
+      "silver": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 336,
+      "total_price": 364,
+      "language": "English",
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 4
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 7,
+      "day": "Friday",
+      "time": "01:45 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 224,
+      "total_price": 252,
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 5
+    },
+    {
+      "name": "Fitness First",
+      "date": 2,
+      "day": "Sunday",
+      "time": "03:15 PM",
+      "venues_name": "Theatre of Dreams Eros One: Jangpura Extn",
+      "silver": [],
+      "platinium": [
+        "A9"
+      ],
+      "price": 100,
+      "total_price": 1068,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00319381-jnqfbzrpje-portrait.jpg",
+      "grade": "ua",
+      "id": 6
+    },
+    {
+      "name": "Stand up Solo",
+      "date": 1,
+      "day": "Saturday",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "D9",
+        "D10",
+        "D11",
+        "D12"
+      ],
+      "platinium": [],
+      "price": 2000,
+      "total_price": 2148,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxMSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00318931-frbraqrrnr-portrait.jpg",
+      "grade": "ua",
+      "id": 7
+    },
+    {
+      "name": "Stand up Solo",
+      "date": 1,
+      "day": "Saturday",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "B5",
+        "B6"
+      ],
+      "platinium": [],
+      "price": 1000,
+      "total_price": 1418,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxMSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00318931-frbraqrrnr-portrait.jpg",
+      "grade": "ua",
+      "id": 8
+    },
+    {
+      "name": "What is the aim of Life by Sri Sri Ravi Shankar",
+      "date": 9,
+      "day": "Sunday",
+      "time": "01:45 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "A5",
+        "A6",
+        "A7"
+      ],
+      "platinium": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "price": 2700,
+      "total_price": 3208,
+      "banner_image_url": "data:image/jpeg;base64,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",
+      "grade": "ua",
+      "id": 9
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 8,
+      "day": "Saturday",
+      "time": "05:55 PM",
+      "venues_name": "Segway Club Promenade: Vasant Kunj",
+      "silver": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 1500,
+      "total_price": 2348,
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 10
+    },
+    {
+      "name": "Best of Laugh Store",
+      "date": 9,
+      "day": "Sunday",
+      "time": "06:20 PM",
+      "venues_name": "Segway Club: Ambience, Gurgaon",
+      "silver": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 1500,
+      "total_price": 1948,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNiBKYW4%3D,ots-29,otc-FFFFFF,oy-612,ox-24:oi-discovery-catalog@@icons@@bundle-icon-shadow-4x.png,ox-15,oy-15,ow-50/et00301197-uuzmrjmmqn-portrait.jpg",
+      "grade": "ua",
+      "id": 11
+    },
+    {
+      "name": "Fitness First",
+      "date": 10,
+      "day": "Monday",
+      "time": "07:15 PM",
+      "venues_name": "Theatre of Dreams: Omaxe Connaught Place Mall, Greater Noida",
+      "silver": [],
+      "platinium": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "price": 1200,
+      "total_price": 1528,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00319381-jnqfbzrpje-portrait.jpg",
+      "grade": "ua",
+      "id": 12
+    },
+    {
+      "name": "Biggest Fear in Life by Shiv Kehra",
+      "date": 10,
+      "day": "Monday",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "B9",
+        "C10",
+        "D8",
+        "D10"
+      ],
+      "platinium": [],
+      "price": 2000,
+      "total_price": 2988,
+      "banner_image_url": "http://www.profitmagazin.com/upload/images/broj/broj110111/shiv-kera-300.jpg",
+      "grade": "ua",
+      "id": 13
+    },
+    {
+      "name": "Fitness First",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "03:00 PM",
+      "venues_name": "Segway Club: Piyush Mahendra, Faridabad",
+      "silver": [],
+      "platinium": [
+        "C10",
+        "C11"
+      ],
+      "price": 800,
+      "total_price": 1578,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00319381-jnqfbzrpje-portrait.jpg",
+      "grade": "ua",
+      "id": 14
+    },
+    {
+      "name": "Stand up Solo",
+      "date": 12,
+      "day": "Wednesday",
+      "time": "07:45 PM",
+      "venues_name": "Segway Club: Logix, Noida",
+      "silver": [
+        "A5",
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 2000,
+      "total_price": 2127,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxMSBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00318931-frbraqrrnr-portrait.jpg",
+      "grade": "ua",
+      "id": 15
+    },
+    {
+      "name": "Avengers 4 watch party",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "01:45 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [],
+      "platinium": [
+        "D7",
+        "D8",
+        "D9",
+        "D10"
+      ],
+      "price": 1600,
+      "total_price": 2128,
+      "banner_image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/d1pklzbuyaab0la-1552597012.jpg",
+      "grade": "ua",
+      "id": 16
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 12,
+      "day": "Wednesday",
+      "time": "02:40 PM",
+      "venues_name": "Prem Garden: DLF Avenue, Saket",
+      "silver": [
+        "B10",
+        "B11",
+        "B12",
+        "B13"
+      ],
+      "platinium": [],
+      "price": 2000,
+      "total_price": 4158,
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 17
+    },
+    {
+      "name": "Civil War ",
+      "date": 12,
+      "day": "Wednesday",
+      "time": "09:00 PM",
+      "venues_name": "Prem Garden: DLF Avenue, Saket",
+      "silver": [
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "A13",
+        "A14"
+      ],
+      "platinium": [],
+      "price": 1000,
+      "total_price": 1177,
+      "banner_image_url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+      "id": 18
+    },
+    {
+      "name": "Civil War ",
+      "date": "",
+      "day": "",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "B11"
+      ],
+      "platinium": [],
+      "price": 500,
+      "total_price": 528,
+      "banner_image_url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+      "id": 19
+    },
+    {
+      "name": "Civil War ",
+      "date": "",
+      "day": "",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "B11"
+      ],
+      "platinium": [],
+      "price": 500,
+      "total_price": 528,
+      "banner_image_url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+      "id": 20
+    },
+    {
+      "name": "Civil War ",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "B10",
+        "B11"
+      ],
+      "platinium": [],
+      "price": 1000,
+      "total_price": 1278,
+      "banner_image_url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+      "id": 21
+    },
+    {
+      "name": "Doctor Strange: MOM",
+      "date": "",
+      "day": "",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "C8"
+      ],
+      "platinium": [],
+      "price": 500,
+      "total_price": 778,
+      "banner_image_url": "https://cdn.onebauer.media/one/media/61c3/5427/d02f/1ec8/e8e3/aea9/doctor-strange-mom-poster.jpg?format=jpg&quality=80&width=440&ratio=1-1&resize=aspectfit",
+      "grade": "ua",
+      "id": 22
+    },
+    {
+      "name": "Fitness First",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "01:55 PM",
+      "venues_name": "Segway Club: Gaur City, Greater Noida",
+      "silver": [
+        "C8",
+        "B6",
+        "B7"
+      ],
+      "platinium": [],
+      "price": 1000,
+      "total_price": 1148,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00319381-jnqfbzrpje-portrait.jpg",
+      "grade": "ua",
+      "id": 23
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "07:15 PM",
+      "venues_name": "Theatre of Dreams: Omaxe Connaught Place Mall, Greater Noida",
+      "silver": [
+        "B7",
+        "B8"
+      ],
+      "platinium": [],
+      "price": 1000,
+      "total_price": 1307,
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 24
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "07:15 PM",
+      "venues_name": "Theatre of Dreams: Omaxe Connaught Place Mall, Greater Noida",
+      "silver": [
+        "B7",
+        "B8"
+      ],
+      "platinium": [],
+      "price": 1000,
+      "total_price": 1307,
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 25
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 9,
+      "day": "Sunday",
+      "time": "09:00 PM",
+      "venues_name": "Prem Garden: DLF Avenue, Saket",
+      "silver": [],
+      "platinium": [
+        "A7",
+        "A8"
+      ],
+      "price": 800,
+      "total_price": 1078,
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 26
+    },
+    {
+      "name": "Sunburn Music Festival",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "07:40 PM",
+      "venues_name": "Theatre of Dreams: Nehru Place",
+      "silver": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 1500,
+      "total_price": 1677,
+      "banner_image_url": "https://media.resources.festicket.com/image/372x525/center/middle/filters:quality(70)/www/photos/5386-poster.jpg",
+      "grade": "ua",
+      "id": 27
+    },
+    {
+      "name": "Best of Laugh Store",
+      "date": 11,
+      "day": "Tuesday",
+      "time": "12:50 PM",
+      "venues_name": "Segway Club: Ambience, Gurgaon",
+      "silver": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 1500,
+      "total_price": 1778,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNiBKYW4%3D,ots-29,otc-FFFFFF,oy-612,ox-24:oi-discovery-catalog@@icons@@bundle-icon-shadow-4x.png,ox-15,oy-15,ow-50/et00301197-uuzmrjmmqn-portrait.jpg",
+      "grade": "ua",
+      "id": 28
+    },
+    {
+      "name": "Fitness First",
+      "date": 10,
+      "day": "Monday",
+      "time": "06:20 PM",
+      "venues_name": "Segway Club: Ambience, Gurgaon",
+      "silver": [
+        "A6",
+        "A7",
+        "A8"
+      ],
+      "platinium": [],
+      "price": 1500,
+      "total_price": 1618,
+      "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxMiBEZWM%3D,ots-29,otc-FFFFFF,oy-612,ox-24/et00319381-jnqfbzrpje-portrait.jpg",
+      "grade": "ua",
+      "id": 29
+    }
+  ]

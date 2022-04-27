@@ -1,0 +1,566 @@
+
+    [
+      {
+        "id": 1,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/attr_1838_20190221142113jpg",
+        "name": "Theatre of Dreams: Nehru Place",
+        "sub_region": "Delhi",
+        "package": 2025,
+        "capacity": 800,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "01:45 PM"
+          },
+          {
+            "time": "07:40 PM"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "image": "https://thumbs.dreamstime.com/b/kingdom-dreams-gurgaon-india-s-first-live-entertainment-theatre-leisure-destination-haryana-india-47945362.jpg",
+        "name": "Prem Garden: DLF Avenue, Saket",
+        "sub_region": "Delhi",
+        "package": 2025,
+        "capacity": 800,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "12:00 PM"
+          },
+          {
+            "time": "02:40 PM"
+          },
+          {
+            "time": "09:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYFB1_NCZFwXVITQt4rbUyn7RDcb5wEe3ql4I4HAswHaht_-nJmSvbKgV45oidflRpy28&usqp=CAU",
+        "name": "Segway Club: Select City Walk, Delhi",
+        "sub_region": "Delhi",
+        "package": 2025,
+        "capacity": 800,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "12:45 PM"
+          },
+          {
+            "time": "06:20 PM"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/attr_1838_20190221142113jpg",
+        "name": "Segway Club: Ambience, Gurgaon",
+        "sub_region": "Gurgaon",
+        "package": 2024,
+        "capacity": 1000,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "12:50 PM"
+          },
+          {
+            "time": "06:20 PM"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "image": "https://media.weddingz.in/images/1f03a66c7add9e61422d0d1203aeb083/best-wedding-reception-halls-in-patna-you-will-absolutely-fall-in-love-with.jpg",
+        "name": "Segway Club: Pacific, Subhash Nagar, Delhi",
+        "sub_region": "Delhi",
+        "package": 2024,
+        "capacity": 400,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "07:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZXZlbnR8ZW58MHx8MHx8&w=1000&q=80",
+        "name": "Segway Club: MGF, Gurgaon",
+        "sub_region": "Gurgaon",
+        "package": 2024,
+        "capacity": 300,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "02:00 PM"
+          },
+          {
+            "time": "07:40 PM"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/attr_1838_20190221142113jpg",
+        "name": "Segway Club: Gaur City, Greater Noida",
+        "sub_region": "Greater Noida",
+        "package": 2027,
+        "capacity": 700,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "01:55 PM"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZXZlbnR8ZW58MHx8MHx8&w=1000&q=80",
+        "name": "Prem Garden: Janak Venue, New Delhi",
+        "sub_region": "Delhi",
+        "package": 2029,
+        "capacity": 400,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "03:55 PM"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "image": "https://thumbs.dreamstime.com/b/kingdom-dreams-gurgaon-india-s-first-live-entertainment-theatre-leisure-destination-haryana-india-47945362.jpg",
+        "name": "Segway Club: Gold, Logix City Centre, Noida",
+        "sub_region": "Noida",
+        "package": 2025,
+        "capacity": 1000,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "12:00 PM"
+          },
+          {
+            "time": "02:45 PM"
+          },
+          {
+            "time": "05:30 PM"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "image": "https://cdn.venuelook.com/uploads/space_947/1407235376_595x400.png",
+        "name": "Segway Club: Logix, Noida",
+        "sub_region": "Noida",
+        "package": 2024,
+        "capacity": 300,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "02:15 PM"
+          },
+          {
+            "time": "03:30 PM"
+          },
+          {
+            "time": "05:00 PM"
+          },
+          {
+            "time": "07:45 PM"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "image": "https://media.weddingz.in/images/1f03a66c7add9e61422d0d1203aeb083/best-wedding-reception-halls-in-patna-you-will-absolutely-fall-in-love-with.jpg",
+        "name": "Theatre of Dreams Eros One: Jangpura Extn",
+        "sub_region": "Delhi",
+        "package": 2025,
+        "capacity": 300,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "03:15 PM"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "image": "https://i.pinimg.com/originals/bc/69/35/bc6935d29458e144012fe0c607e3d728.jpg",
+        "name": "Segway Club: ECX Chanakyapuri, Delhi",
+        "sub_region": "Delhi",
+        "package": 2026,
+        "capacity": 6000,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "05:45 PM"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYFB1_NCZFwXVITQt4rbUyn7RDcb5wEe3ql4I4HAswHaht_-nJmSvbKgV45oidflRpy28&usqp=CAU",
+        "name": "Segway Club: Shalimar Bagh",
+        "sub_region": "Delhi",
+        "package": 2029,
+        "capacity": 400,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "02:45 PM"
+          },
+          {
+            "time": "08:15 PM"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "image": "https://thumbs.dreamstime.com/b/kingdom-dreams-gurgaon-india-s-first-live-entertainment-theatre-leisure-destination-haryana-india-47945362.jpg",
+        "name": "Theatre of Dreams: Janak Place",
+        "sub_region": "Delhi",
+        "package": 2024,
+        "capacity": 6000,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "03:05 PM"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "image": "https://i.pinimg.com/originals/bc/69/35/bc6935d29458e144012fe0c607e3d728.jpg",
+        "name": "Segway Club Promenade: Vasant Kunj",
+        "sub_region": "Delhi",
+        "package": 2027,
+        "capacity": 800,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "03:10 PM"
+          },
+          {
+            "time": "05:55 PM"
+          },
+          {
+            "time": "08:40 PM"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxzgRAQSzEfYUsmrExdr4bqB1sdlWL0NQw8A&usqp=CAU",
+        "name": "Segway Club: Pacific, Dwarka",
+        "sub_region": "Delhi",
+        "package": 2026,
+        "capacity": 400,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "01:15 PM"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "image": "https://thumbs.dreamstime.com/b/kingdom-dreams-gurgaon-india-s-first-live-entertainment-theatre-leisure-destination-haryana-india-47945362.jpg",
+        "name": "Segway Club: Delux, Ambience Delhi",
+        "sub_region": "Delhi",
+        "package": 2024,
+        "capacity": 1000,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "03:50 PM"
+          },
+          {
+            "time": "06:35 PM"
+          },
+          {
+            "time": "09:30 PM"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "image": "https://media.weddingz.in/images/1f03a66c7add9e61422d0d1203aeb083/best-wedding-reception-halls-in-patna-you-will-absolutely-fall-in-love-with.jpg",
+        "name": "Segway Club: Select City Walk (Gold), Delhi",
+        "sub_region": "Delhi",
+        "package": 2029,
+        "capacity": 700,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "02:55 PM"
+          },
+          {
+            "time": "08:30 PM"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "image": "https://cdn.venuelook.com/uploads/space_947/1407235376_595x400.png",
+        "name": "Theatre of Dreams Sapphire 90 Mall: Gurugram",
+        "sub_region": "Gurgaon",
+        "package": 2026,
+        "capacity": 2000,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "04:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "image": "https://i.pinimg.com/originals/bc/69/35/bc6935d29458e144012fe0c607e3d728.jpg",
+        "name": "Plateau: Raheja Mall, Gurgaon",
+        "sub_region": "Gurgaon",
+        "package": 2025,
+        "capacity": 300,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "02:30 PM"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "image": "https://cdn.venuelook.com/uploads/space_947/1407235376_595x400.png",
+        "name": "Theatre of Dreams: Insignia At Epicuria, Nehru Place",
+        "sub_region": "Delhi",
+        "package": 2030,
+        "capacity": 800,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "12:00 PM"
+          },
+          {
+            "time": "03:00 PM"
+          },
+          {
+            "time": "08:15 PM"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "image": "https://hire4event.com/blogs/wp-content/uploads/2019/03/Best-Party-Places-in-DELHI-Noida.jpg",
+        "name": "Segway Club: Sangam, Delhi",
+        "sub_region": "Delhi",
+        "package": 2030,
+        "capacity": 300,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "05:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "image": "https://media.weddingz.in/images/1f03a66c7add9e61422d0d1203aeb083/best-wedding-reception-halls-in-patna-you-will-absolutely-fall-in-love-with.jpg",
+        "name": "Segway Club: Plaza-CP, Delhi",
+        "sub_region": "Delhi",
+        "package": 2030,
+        "capacity": 300,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "04:15 PM"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/attr_1838_20190221142113jpg",
+        "name": "Prem Garden: Unity One Mall Rohini, Delhi",
+        "sub_region": "Delhi",
+        "package": 2030,
+        "capacity": 700,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "04:20 PM"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "image": "https://i.pinimg.com/originals/bc/69/35/bc6935d29458e144012fe0c607e3d728.jpg",
+        "name": "Theatre of Dreams Gurgaon Ardee Mall",
+        "sub_region": "Gurgaon",
+        "package": 2025,
+        "capacity": 400,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "12:00 PM"
+          },
+          {
+            "time": "02:35 PM"
+          },
+          {
+            "time": "05:10 PM"
+          },
+          {
+            "time": "07:45 PM"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/attr_1838_20190221142113jpg",
+        "name": "Theatre of Dreams: Gurgaon Sapphire 83",
+        "sub_region": "Gurgaon",
+        "package": 2027,
+        "capacity": 800,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "03:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYFB1_NCZFwXVITQt4rbUyn7RDcb5wEe3ql4I4HAswHaht_-nJmSvbKgV45oidflRpy28&usqp=CAU",
+        "name": "Miraj Maximum Metropolis Mall: Gurgaon",
+        "sub_region": "Gurgaon",
+        "package": 2024,
+        "capacity": 300,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "05:15 PM"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "image": "https://i.pinimg.com/originals/bc/69/35/bc6935d29458e144012fe0c607e3d728.jpg",
+        "name": "Segway Club: Star Mall, Gurgaon",
+        "sub_region": "Gurgaon",
+        "package": 2026,
+        "capacity": 2000,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "07:20 PM"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "image": "https://media.weddingz.in/images/1f03a66c7add9e61422d0d1203aeb083/best-wedding-reception-halls-in-patna-you-will-absolutely-fall-in-love-with.jpg",
+        "name": "Plateau: TGIP",
+        "sub_region": "Noida",
+        "package": 2025,
+        "capacity": 400,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "02:30 PM"
+          },
+          {
+            "time": "05:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "image": "https://hire4event.com/blogs/wp-content/uploads/2019/03/Best-Party-Places-in-DELHI-Noida.jpg",
+        "name": "Segway Club: Ambience Gold, Gurgaon",
+        "sub_region": "Gurgaon",
+        "package": 2024,
+        "capacity": 3000,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "03:15 PM"
+          },
+          {
+            "time": "08:05 PM"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/attr_1838_20190221142113jpg",
+        "name": "Theatre of Dreams: Crown Interiorz Mall, Delhi Mathura Road",
+        "sub_region": "Faridabad",
+        "package": 2022,
+        "capacity": 400,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "03:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "image": "https://media.weddingz.in/images/1f03a66c7add9e61422d0d1203aeb083/best-wedding-reception-halls-in-patna-you-will-absolutely-fall-in-love-with.jpg",
+        "name": "Segway Club: Mega Mall, Gurgaon",
+        "sub_region": "Gurgaon",
+        "package": 2025,
+        "capacity": 700,
+        "cancellation_availability": true,
+        "timings": [
+          {
+            "time": "04:30 PM"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "image": "https://hire4event.com/blogs/wp-content/uploads/2019/03/Best-Party-Places-in-DELHI-Noida.jpg",
+        "name": "Segway Club: Piyush Mahendra, Faridabad",
+        "sub_region": "Faridabad",
+        "package": 2025,
+        "capacity": 800,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "03:00 PM"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "image": "https://i.pinimg.com/originals/bc/69/35/bc6935d29458e144012fe0c607e3d728.jpg",
+        "name": "Theatre of Dreams: Shipra Mall, Ghaziabad",
+        "sub_region": "Ghaziabad",
+        "package": 2029,
+        "capacity": 700,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "03:15 PM"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "image": "https://media.weddingz.in/images/1f03a66c7add9e61422d0d1203aeb083/best-wedding-reception-halls-in-patna-you-will-absolutely-fall-in-love-with.jpg",
+        "name": "Theatre of Dreams: Omaxe Connaught Place Mall, Greater Noida",
+        "sub_region": "Greater Noida",
+        "package": 2022,
+        "capacity": 400,
+        "cancellation_availability": false,
+        "timings": [
+          {
+            "time": "07:15 PM"
+          }
+        ]
+      }
+    
+]
