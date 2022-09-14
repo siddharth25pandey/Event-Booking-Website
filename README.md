@@ -1,5 +1,6 @@
 # Event Management Platform
 `Event Booking G-20` website is basically for entertainment purpose, In this webapp, a user can book events tickets by choosing the different theatres and timings accordingly. The user also can see some events happening around them and can attend the events. It is hosted at [Demo](https://g20eventbooking.netlify.app) 
+[Swagger UI Link](https://chomspro.herokuapp.com/api/)
 
 ## Motivation
 As demands of an automatic system in the management sector are high, we need to develop a unique web app for Event Management System. 
